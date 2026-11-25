@@ -1,0 +1,68 @@
+DevOps Roadmap – 2026
+Focused roadmap without Linux and AWS
+1. Git & GitHub
+   Practised
+   - Git commands
+   - Branching and merging
+   - Merge conflicts
+   - Pull requests
+2. Shell Scripting
+   - Variables
+   - Conditions
+   - Loops
+   - Functions
+   - Automation scripts
+3. Jenkins – CI/CD
+   Basic practice done
+   - Jenkins jobs
+   - GitHub integration
+   - Jenkins pipelines
+   - Jenkinsfile
+   - Automated builds and deployments
+4. Maven
+   - Maven installation
+   - pom.xml
+   - Dependencies
+   - Build lifecycle
+   - mvn clean package
+5. Docker
+   Practised
+   - Images and containers
+   - Dockerfile
+   - Port mapping
+   - Volumes
+   - Networks
+   - Docker Compose
+6. Terraform – Infrastructure as Code
+   Basic practice done
+   - Providers and resources
+   - Variables and outputs
+   - State files
+   - Modules
+   - Remote backend
+7. Kubernetes
+   - Architecture
+   - Pods
+   - Deployments
+   - ReplicaSets
+   - Services
+   - ConfigMaps and Secrets
+   - Ingress
+   - Scaling
+8. Ansible
+   - Inventory
+   - Playbooks
+   - Variables
+   - Roles
+   - Configuration management
+9. Monitoring & Logging
+   - Prometheus
+   - Grafana
+   - Log monitoring
+   - Alerts
+10. Real-time DevOps Projects
+    - CI/CD pipeline
+    - Java application deployment
+    - Docker deployment
+    - Kubernetes deployment
+    - Monitoring
